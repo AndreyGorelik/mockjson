@@ -1,8 +1,80 @@
-{
-  "pizza": [
-    {"name": "Маргарита", "price": "700", "imageUrl": "https://static.1000.menu/img/content-v2/ef/27/10853/picca-margarita-v-domashnix-usloviyax_1608783820_4_max.jpg"},
-    {"name": "Пепперони", "price": "900", "imageUrl": "https://static.1000.menu/img/content-v2/85/ff/6190/pitstsa-pepperoni-_1612599986_22_max.jpg"},
-    {"name": "4 сезона", "price": "500", "imageUrl": "https://thebest.kz/assets/images/4-sezona-picca.jpg"},
-    {"name": "Морская", "price": "1000", "imageUrl": "https://www.gastronom.ru/binfiles/images/00000016/00022613.jpg"}
-  ]
-}
+[
+ {
+  "city": "Port Jairo",
+  "zip": "72707-8103",
+  "street": "Cynthia Corner",
+  "id": "12"
+ },
+ {
+  "city": "Sierraburgh",
+  "zip": "10565",
+  "street": "Alfonzo Port",
+  "id": "13"
+ },
+ {
+  "city": "Balistreriborough",
+  "zip": "36556-7383",
+  "street": "Botsford Land",
+  "id": "14"
+ },
+ {
+  "city": "Port Henri",
+  "zip": "78269",
+  "street": "Elza Walks",
+  "id": "15"
+ },
+ {
+  "city": "New Adelefurt",
+  "zip": "89432",
+  "street": "VonRueden Trail",
+  "id": "16"
+ },
+ {
+  "city": "Huelstad",
+  "zip": "46314-9150",
+  "street": "Streich Causeway",
+  "id": "17"
+ },
+ {
+  "city": "Витебск",
+  "zip": "210032",
+  "street": "Чкалова 25-29",
+  "id": "18"
+ },
+ {
+  "city": "test",
+  "zip": "210032",
+  "street": "Чкалова 25-29",
+  "id": "19"
+ },
+ {
+  "city": "11111",
+  "zip": "210032",
+  "street": "Чкалова 25-29",
+  "id": "20"
+ },
+ {
+  "city": "333",
+  "zip": "333",
+  "street": "333",
+  "id": "21"
+ },
+ {
+  "city": "4444",
+  "zip": "4444",
+  "street": "4444",
+  "id": "22"
+ },
+ {
+  "city": "555",
+  "zip": "55",
+  "street": "55",
+  "id": "23"
+ },
+ {
+  "city": "6666",
+  "zip": "666666",
+  "street": "66666",
+  "id": "24"
+ }
+]
