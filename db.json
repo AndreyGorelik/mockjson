@@ -1,80 +1,14 @@
-[
- {
-  "city": "Port Jairo",
-  "zip": "72707-8103",
-  "street": "Cynthia Corner",
-  "id": "12"
- },
- {
-  "city": "Sierraburgh",
-  "zip": "10565",
-  "street": "Alfonzo Port",
-  "id": "13"
- },
- {
-  "city": "Balistreriborough",
-  "zip": "36556-7383",
-  "street": "Botsford Land",
-  "id": "14"
- },
- {
-  "city": "Port Henri",
-  "zip": "78269",
-  "street": "Elza Walks",
-  "id": "15"
- },
- {
-  "city": "New Adelefurt",
-  "zip": "89432",
-  "street": "VonRueden Trail",
-  "id": "16"
- },
- {
-  "city": "Huelstad",
-  "zip": "46314-9150",
-  "street": "Streich Causeway",
-  "id": "17"
- },
- {
-  "city": "Витебск",
-  "zip": "210032",
-  "street": "Чкалова 25-29",
-  "id": "18"
- },
- {
-  "city": "test",
-  "zip": "210032",
-  "street": "Чкалова 25-29",
-  "id": "19"
- },
- {
-  "city": "11111",
-  "zip": "210032",
-  "street": "Чкалова 25-29",
-  "id": "20"
- },
- {
-  "city": "333",
-  "zip": "333",
-  "street": "333",
-  "id": "21"
- },
- {
-  "city": "4444",
-  "zip": "4444",
-  "street": "4444",
-  "id": "22"
- },
- {
-  "city": "555",
-  "zip": "55",
-  "street": "55",
-  "id": "23"
- },
- {
-  "city": "6666",
-  "zip": "666666",
-  "street": "66666",
-  "id": "24"
- }
-]
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
