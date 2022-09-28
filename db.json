@@ -1,14 +1,8 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "pizza": [
+    {"name": "Маргарита", "price": "700", "imageUrl": "https://static.1000.menu/img/content-v2/ef/27/10853/picca-margarita-v-domashnix-usloviyax_1608783820_4_max.jpg"},
+    {"name": "Пепперони", "price": "900", "imageUrl": "https://static.1000.menu/img/content-v2/85/ff/6190/pitstsa-pepperoni-_1612599986_22_max.jpg"},
+    {"name": "4 сезона", "price": "500", "imageUrl": "https://thebest.kz/assets/images/4-sezona-picca.jpg"},
+    {"name": "Морская", "price": "1000", "imageUrl": "https://www.gastronom.ru/binfiles/images/00000016/00022613.jpg"}
+  ]
 }
